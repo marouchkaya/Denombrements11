@@ -58,7 +58,7 @@ namespace Denombrements
                         for (int k = (t - n + 1); k <= t; k++)
                             r1 *= k;
                         // calcul de r2
-                        long r2 = 1;
+                        long r2 = 1
                         for (int k = 1; k <= n; k++)
                             r2 *= k;
                         // calcul de r3
